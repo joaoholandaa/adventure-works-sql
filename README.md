@@ -16,8 +16,8 @@ O AdventureWorks é um banco de dados de exemplo criado pela Microsoft para o SQ
 O banco de dados inclui 68 tabelas que descrevem um fabricante fictício de bicicletas e contém dados sobre diferentes tipos de transações 
 que ocorrem durante as operações comerciais. Suas tabelas estão organizadas em cinco esquemas principais, cada um representando uma área de operação: Production, Purchasing, Sales, HR e Person.
 
-- **`Tabelas do banco de dados`**
-![Database Schema](image.png)
+- **`Schema do Banco de Dados`**
+![Schema do BD](adventureworks_sales_schema.png)
 
 ---
 
